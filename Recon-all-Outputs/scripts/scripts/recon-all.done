@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT output2
+START_TIME Sun Mar 1 09:44:05 +0330 2020
+END_TIME Sun Mar 1 19:43:40 +0330 2020
+RUNTIME_HOURS 9.993
+USER taha
+HOST localhost.localdomain
+PROCESSOR x86_64
+OS Linux
+UNAME Linux localhost.localdomain 2.6.32-754.el6.x86_64 #1 SMP Tue Jun 19 21:26:04 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+VERSION $Id: recon-all,v 1.580.2.16 2017/01/18 14:11:24 zkaufman Exp $
+CMDPATH /home/taha/Desktop/freesurfer/bin/recon-all
+CMDARGS -autorecon2 -autorecon3 -s output2 -notal-check

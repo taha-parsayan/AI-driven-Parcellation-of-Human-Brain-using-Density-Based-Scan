@@ -1,0 +1,9 @@
+Logfile for pctsurfcon
+Sun Mar  1 19:19:44 +0330 2020
+setenv SUBJECTS_DIR /media/volume1/freesurfer_subjects
+cd /media/volume1/freesurfer_subjects/output2/scripts
+/home/taha/Desktop/freesurfer/bin/pctsurfcon
+$Id: pctsurfcon,v 1.15 2016/02/12 21:43:15 zkaufman Exp $
+Linux localhost.localdomain 2.6.32-754.el6.x86_64 #1 SMP Tue Jun 19 21:26:04 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+FREESURFER_HOME /home/taha/Desktop/freesurfer
+Cleaning up

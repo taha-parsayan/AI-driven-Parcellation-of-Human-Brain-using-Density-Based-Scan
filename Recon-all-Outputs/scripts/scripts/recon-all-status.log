@@ -1,0 +1,84 @@
+status file for recon-all
+Sun Mar  1 09:36:56 +0330 2020
+#@# MotionCor Sun Mar  1 09:37:13 +0330 2020
+#@# Talairach Sun Mar  1 09:37:28 +0330 2020
+#@# Nu Intensity Correction Sun Mar  1 09:38:21 +0330 2020
+#@# Intensity Normalization Sun Mar  1 09:39:40 +0330 2020
+recon-all -s output2 finished without error at Sun Mar  1 09:41:07 +0330 2020
+
+
+
+New invocation of recon-all 
+
+
+
+status file for recon-all
+Sun Mar  1 09:44:05 +0330 2020
+#@# EM Registration Sun Mar  1 09:44:05 +0330 2020
+#@# CA Normalize Sun Mar  1 10:00:25 +0330 2020
+#@# CA Reg Sun Mar  1 10:01:28 +0330 2020
+#@# SubCort Seg Sun Mar  1 11:23:05 +0330 2020
+#@# Merge ASeg Sun Mar  1 12:04:02 +0330 2020
+#@# Intensity Normalization2 Sun Mar  1 12:04:02 +0330 2020
+#@# Mask BFS Sun Mar  1 12:06:22 +0330 2020
+#@# WM Segmentation Sun Mar  1 12:06:23 +0330 2020
+#@# Fill Sun Mar  1 12:07:52 +0330 2020
+#@# Tessellate lh Sun Mar  1 12:08:21 +0330 2020
+#@# Tessellate rh Sun Mar  1 12:08:26 +0330 2020
+#@# Smooth1 lh Sun Mar  1 12:08:30 +0330 2020
+#@# Smooth1 rh Sun Mar  1 12:08:33 +0330 2020
+#@# Inflation1 lh Sun Mar  1 12:08:36 +0330 2020
+#@# Inflation1 rh Sun Mar  1 12:08:58 +0330 2020
+#@# QSphere lh Sun Mar  1 12:09:17 +0330 2020
+#@# QSphere rh Sun Mar  1 12:11:32 +0330 2020
+#@# Fix Topology Copy lh Sun Mar  1 12:13:32 +0330 2020
+#@# Fix Topology Copy rh Sun Mar  1 12:13:32 +0330 2020
+#@# Fix Topology lh Sun Mar  1 12:13:32 +0330 2020
+#@# Fix Topology rh Sun Mar  1 14:57:57 +0330 2020
+#@# Make White Surf lh Sun Mar  1 17:04:14 +0330 2020
+#@# Make White Surf rh Sun Mar  1 17:07:15 +0330 2020
+#@# Smooth2 lh Sun Mar  1 17:10:13 +0330 2020
+#@# Smooth2 rh Sun Mar  1 17:10:16 +0330 2020
+#@# Inflation2 lh Sun Mar  1 17:10:18 +0330 2020
+#@# Inflation2 rh Sun Mar  1 17:10:35 +0330 2020
+#@# Curv .H and .K lh Sun Mar  1 17:10:52 +0330 2020
+#@# Curv .H and .K rh Sun Mar  1 17:11:40 +0330 2020
+#@# Curvature Stats lh Sun Mar  1 17:12:25 +0330 2020
+#@# Curvature Stats rh Sun Mar  1 17:12:27 +0330 2020
+#@# Sphere lh Sun Mar  1 17:12:29 +0330 2020
+#@# Sphere rh Sun Mar  1 17:35:00 +0330 2020
+#@# Surf Reg lh Sun Mar  1 17:57:04 +0330 2020
+#@# Surf Reg rh Sun Mar  1 18:28:46 +0330 2020
+#@# Jacobian white lh Sun Mar  1 18:54:42 +0330 2020
+#@# Jacobian white rh Sun Mar  1 18:54:43 +0330 2020
+#@# AvgCurv lh Sun Mar  1 18:54:44 +0330 2020
+#@# AvgCurv rh Sun Mar  1 18:54:45 +0330 2020
+#@# Cortical Parc lh Sun Mar  1 18:54:46 +0330 2020
+#@# Cortical Parc rh Sun Mar  1 18:54:54 +0330 2020
+#@# Make Pial Surf lh Sun Mar  1 18:55:01 +0330 2020
+#@# Make Pial Surf rh Sun Mar  1 19:03:15 +0330 2020
+#@# Surf Volume lh Sun Mar  1 19:11:09 +0330 2020
+#@# Surf Volume rh Sun Mar  1 19:11:10 +0330 2020
+#@# Cortical ribbon mask Sun Mar  1 19:11:12 +0330 2020
+#@# Parcellation Stats lh Sun Mar  1 19:16:16 +0330 2020
+#@# Parcellation Stats rh Sun Mar  1 19:16:50 +0330 2020
+#@# Cortical Parc 2 lh Sun Mar  1 19:17:23 +0330 2020
+#@# Cortical Parc 2 rh Sun Mar  1 19:17:32 +0330 2020
+#@# Parcellation Stats 2 lh Sun Mar  1 19:17:41 +0330 2020
+#@# Parcellation Stats 2 rh Sun Mar  1 19:17:59 +0330 2020
+#@# Cortical Parc 3 lh Sun Mar  1 19:18:17 +0330 2020
+#@# Cortical Parc 3 rh Sun Mar  1 19:18:25 +0330 2020
+#@# Parcellation Stats 3 lh Sun Mar  1 19:18:32 +0330 2020
+#@# Parcellation Stats 3 rh Sun Mar  1 19:18:49 +0330 2020
+#@# WM/GM Contrast lh Sun Mar  1 19:19:06 +0330 2020
+#@# WM/GM Contrast rh Sun Mar  1 19:19:44 +0330 2020
+#@# Relabel Hypointensities Sun Mar  1 19:20:07 +0330 2020
+#@# AParc-to-ASeg aparc Sun Mar  1 19:20:19 +0330 2020
+#@# AParc-to-ASeg a2009s Sun Mar  1 19:23:27 +0330 2020
+#@# AParc-to-ASeg DKTatlas Sun Mar  1 19:26:38 +0330 2020
+#@# APas-to-ASeg Sun Mar  1 19:29:49 +0330 2020
+#@# ASeg Stats Sun Mar  1 19:29:54 +0330 2020
+#@# WMParc Sun Mar  1 19:32:24 +0330 2020
+#@# BA_exvivo Labels lh Sun Mar  1 19:38:41 +0330 2020
+#@# BA_exvivo Labels rh Sun Mar  1 19:41:12 +0330 2020
+recon-all -s output2 finished without error at Sun Mar  1 19:43:40 +0330 2020
