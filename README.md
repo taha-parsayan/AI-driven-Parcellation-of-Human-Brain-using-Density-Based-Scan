@@ -6,6 +6,7 @@ Brodmann's parcellation of the human cerebral cortex, based on cellular architec
 **The Recon-all-Output folder** contains the resulting images and measurements of recon-all from FreeSurfer.
 
 **Withing the codes-and-files folder:**
+
 RH_classification_whole_brain.m and LH_classification_whole_brain.m : The Matlab codes for applying the DB_Scan alorithm on the data.
 RH_classification_whole_brain.annot and LH_classification_whole_brain.annot : Annotation files to visualize the resulting brain clusters in FreeSurfer
 
