@@ -1,3 +1,9 @@
+![Static Badge](https://img.shields.io/badge/Clustering-FF0000)
+![Static Badge](https://img.shields.io/badge/Neuroimaging-FF0000)
+![Static Badge](https://img.shields.io/badge/AI-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Python-8A2BE2)
+![Static Badge](https://img.shields.io/badge/Human%20/%20Brain-4CAF50)
+
 # Human-Brain-Parcellation-using-DB-Scan
 
 ![Figure5](https://github.com/user-attachments/assets/0b2ec14f-41e8-4a23-90e6-e9024b09d37a)
