@@ -22,7 +22,8 @@ We extracted five anatomical features (cortical thickness, volume, surface area,
 
 ### Results
 
-The model identified 70 and 67 clusters in the left and right hemispheres, respectively. Notably, we identified the SMA and pre-SMA regions, which were not present in Brodmann's areas, and further divided regions like the pre-central gyrus and superior frontal gyrus into smaller sub-regions, consistent with the Julich-Brain atlas. This is the first application of DB-Scan in neuroimaging, and our approach may be valuable for studying individual variability in the cerebral cortex in future research.
+The model identified 70 and 67 clusters in the left and right hemispheres, respectively. We identified the SMA and pre-SMA regions, which were not present in Brodmann's areas. We further divided regions like the pre-central gyrus and superior frontal gyrus into smaller sub-regions, consistent with the Julich-Brain atlas. This is the first application of DB-Scan in neuroimaging, and our approach may be valuable for studying individual variability in the cerebral cortex in future research.
+
 ---
 
 *The Recon-all-Output folder* contains the resulting images and measurements of recon-all from FreeSurfer.
